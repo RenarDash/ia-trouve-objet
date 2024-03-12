@@ -1,0 +1,41 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 95%;
+    margin: 0px;
+    border-radius:15px;
+    margin: 15px;
+}
+
+#start{
+    font-size: 18px;
+}
+
+#NOO , #stats{
+    font-size: 18px;
+}
+
+.footer{
+    position: fixed;
+    color:#BDB5D5;
+    bottom: 0;
+    width: 9%;
+    background-color: azure;
+    line-height: 3;
+    text-align: center;
+    font-weight: bolder;
+}
+
+canvas{
+    border: 2px solid antiquewhite;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
+#note{
+    color: black;
+    font-size:13;
+}
